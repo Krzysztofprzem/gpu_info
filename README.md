@@ -1,1 +1,1 @@
-# gpu_info
+# opencl_devices_info
